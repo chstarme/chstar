@@ -1,30 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/chstarme/chstar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这是我的个人书签，主要用于收藏常用的网站
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Android（Mi4刷机）
 
-### Markdown
+Recovery：
+[TWRP](https://twrp.me/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ROM：
+[Lineage OS](https://download.lineageos.org/)                                                                                                                               
+[Mokee](https://download.mokeedev.com/)                                                                                                                                                                  
+[Nitrogen OS](https://sourceforge.net/projects/nitrogen-project/)                                                                                  
+[SlimRoms](https://slimroms.org/)                                                                                                                                                                  
+[Resurrection Remix OS](http://www.resurrectionremix.com/)                                                                                  
+[AICP](http://dwnld.aicp-rom.com/)                                                                                                                                                                  
+[SudaMod](http://sudamod.download/)                                                                      
 
-```markdown
-Syntax highlighted code block
+## hosts
 
-# Header 1
-## Header 2
-### Header 3
+[AD(PC)](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt)
+[AD(ANdroid)](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)
+[Google Play](https://raw.githubusercontent.com/sy618/hosts/master/p)
+[YouTube](https://raw.githubusercontent.com/sy618/hosts/master/y)
+[FQ](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
 
-- Bulleted
-- List
+## 动漫
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+[嘀哩嘀哩](http://www.dilidili.wang/)
+[动漫FM](http://www.dongman.fm/)
+[动漫之家](http://manhua.dmzj.com/)
+[爱看漫](http://www.ikanman.com/)
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
