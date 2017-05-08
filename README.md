@@ -14,9 +14,9 @@ ROM：
 [SlimRoms](https://slimroms.org/)（这个也不错，ROM体积小，没有太多乱七八糟的东西）                                                                                                                                                                                  
 [Resurrection Remix OS](http://www.resurrectionremix.com/)（这个也是用心做系统的，也集成了很多不错的东西，例如Magic）                                                                                                                                                 
 [AICP](http://dwnld.aicp-rom.com/)（这个天天都有更新，感觉就是直接在Lineage OS修改）                                                                                                                                                                               
-[SudaMod](http://sudamod.download/)（跟魔趣一样，国内用户比较容易上手）                                                                                                                                                                                             
-[酷安](https://apkcool.com/)                                                                                                                                                                                                                                    
-[黑域](https://piebridge.me/br/)(非常厉害的软件，主要就是管理后台，无需root就可以达到省点目的）                                                                                                                                                                      
+[SudaMod](http://sudamod.download/)（跟魔趣一样，国内用户比较容易上手）                                                                                                                                                                                             
+[酷安](https://apkcool.com/)                                                                                                                                                                                                                                     
+[黑域](https://piebridge.me/br/)(非常厉害的软件，主要就是管理后台，无需root就可以达到省点目的）                                                                                                                                                                       
 [Magic]()（这个很厉害，Systemless，支持Android7.1）                                                                                                                                                                                                               
 ## hosts
                                                                                                                                  
